@@ -1,2 +1,2 @@
 # siteberkay
-<a href="berkayibis.com">berkayibis</a>
+<a href="http://berkayibis.com/">berkayibis</a>
